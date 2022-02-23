@@ -1,0 +1,549 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Case of the inhabitants of the town and parish of Croyden in the county of Surrey concerning the great oppressions they ly under by reason of the unparallel'd extortions and violent illegal and unwarrantable prosecutions of Doctor William Clewer, vicar of the said parish.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1673</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 65 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A31164</idno>
+            <idno type="STC">Wing C1092</idno>
+            <idno type="STC">ESTC R26442</idno>
+            <idno type="EEBO-CITATION">09464155</idno>
+            <idno type="OCLC">ocm 09464155</idno>
+            <idno type="VID">43195</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A31164)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 43195)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1304:16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Case of the inhabitants of the town and parish of Croyden in the county of Surrey concerning the great oppressions they ly under by reason of the unparallel'd extortions and violent illegal and unwarrantable prosecutions of Doctor William Clewer, vicar of the said parish.</title>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1673]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Reproduction of original in the Cambridge University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Clewer, William.</term>
+               <term>Croyden (London, England) --  History.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-02</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2011-02</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:43195:1"/>
+            <pb n="1" facs="tcp:43195:1" rendition="simple:additions"/>
+            <head>The Caſe of the Inhabitants of <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <hi>Pariſh</hi> of <hi>Croyden,</hi> in the Co<gap reason="illegible" resp="#UOM" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> concerning the Great <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> under, by reaſon, of the <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#UOM" extent="5 letters">
+                  <desc>•••••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>tions, and violent illegal and <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Proſecutions of Doctor <hi>William</hi> 
+               <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> care of the ſaid Pariſh:</head>
+            <opener>Humbly Preſented to the Conſideration of Parliament.</opener>
+            <p>THe ſaid Doctor <hi>William Cle<gap reason="illegible" resp="#UOM" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>,</hi> in the Times of the Late Rebel<g ref="char:EOLhyphen"/>lion, obtained a Sequeſtred <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> in <hi>Nor<g ref="char:EOLhyphen"/>thampton-Shire;</hi> in which he behaved himſelf much unlike <hi>Clerg<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>-Man</hi> as will appear by the Articles annexed <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> which were in thoſe Dayes Exhibited againſt him: However <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Continued to Perſecute the Poor People, <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <hi>Majeſties</hi> moſt happy Reſta<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ation to his Crown and <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> when Doctor <hi>Whitford,</hi> the Perſon Sequeſtred out of the ſaid Living <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> above ſe<g ref="char:EOLhyphen"/>venty years of Age, and living, was reſtored to his Benefice: Which <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Living, he entertained one Mr. <hi>Preſton</hi> to be his Reader, who accepted <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ved and Officiated there in that capacity, but <hi>Clewer</hi> would never pay him his Wa<g ref="char:EOLhyphen"/>ges, ſo that he might have Starved, if ſome of the <hi>Pariſhioners</hi> (to whom by <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> he did ſometimes Read Common Prayers and Divine Service) had not given him relief, for which <hi>Clewer</hi> cauſed him to be ſent for up to <hi>London</hi> by a <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> and being ſo Old that he could not Ride on Horſe-back, he was brought up in a Cart ſtuft with ſtraw, and kept at <hi>London</hi> till utterly ruined, and than they releaſ<g ref="char:EOLhyphen"/>ed him.</p>
+            <p>The Articles Exhibited againſt the ſaid <hi>Clewer</hi> by the ſaid <hi>Pariſhioners,</hi> were as follows.</p>
+            <floatingText xml:lang="eng" type="articles">
+               <body>
+                  <head>Articles Exhibited againſt <hi>William Clewer,</hi> Miniſter of <hi>Aſhton</hi> in the <hi>County</hi> of Northampton.</head>
+                  <p>FIrſt, that the ſaid <hi>Clewer</hi> is a very Covetous Man, and doth endeavour unjuſtly to exact and extort Sums of Money and other things from the ſaid <hi>Pariſhioners,</hi> and others that he hath to deal for.</p>
+                  <p>The ſaid <hi>Clewer</hi> did unjuſtly demand a Cow for a Herriot, of <hi>Sarah Honor</hi> a Poor Widow, whoſe Husband was then lately Dead, and Died ſo Poor that the <hi>Pa<g ref="char:EOLhyphen"/>riſh</hi> was forced to Bury him at their Charge: he leaving his ſaid Wife with five ſmal Children, and nothing to maintain them but that one Cow, and it was never known that any Herriot was there paid.</p>
+                  <p>And the better to procure his End therein, the ſaid <hi>Clewer</hi> Promiſed her, that if ſhe would let him have the Cow, he would procure her a Warrant from the Juſtice of the Peace, that the <hi>Pariſh</hi> ſhould pay her weekly one ſhilling for the maintenance of her ſelf and Children.</p>
+                  <p>The ſaid <hi>Clewer</hi> hath ſeveral times unjuſtly detained and withheld the Wages of Labourers from them who had Painfully and Faithfully done their Duties.</p>
+                  <p>He cauſed a Poor Widow (whoſe Husband was there lately Dead, and ſhe her ſelf <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>eing then very Sick and Weak and almoſt blind, and left in Debt fifty pounds at leaſt,
+<pb n="2" facs="tcp:43195:2"/>
+having four ſmall Children unable to maintain themſelves) to pay him the tenth penny for a Calf which ſhe ſold towards the Payment of her Husbands Debts; and enforced her to pay two pence for the Head and Pluck which ſhe had reſerved for her ſelf.</p>
+                  <p>The ſaid <hi>Clewer</hi> hath pulled down a great part of the Parſonage Houſe, and con<g ref="char:EOLhyphen"/>verted the Materials thereof to his own uſe.</p>
+                  <p>The ſaid <hi>Clewer</hi> notwithſtanding his Parſonage at <hi>Aſhton,</hi> is Worth one Hundred and Twenty Pounds by the Year at leaſt: yet for lucre of Money did undertake to ſerve another Cure of Twenty Pounds by the Year, by means whereof he ſerved neither of them as he ought to do.</p>
+                  <p>The ſaid <hi>Clewer</hi> is a very Contentious Man, and doth much vex and trouble, and diſquiet his Neighbours, Pariſhioners and others, by unjuſt Suits and Malicious troubles. For,</p>
+                  <p>The ſaid <hi>Clewer</hi> did in a Clandeſtine way, procure a Bond which was made to a Ser<g ref="char:EOLhyphen"/>jeant at Arms for ſecurity, and ſuch one <hi>Budworth,</hi> who was Surety herein; upon the ſame, and recovered Fifty Pounds of him, and cauſed him to ſpend Fifty Pounds more at leaſt, notwithſtanding the Serjeant at Arms was never Damnified one peny thereby.</p>
+                  <p>The ſaid <hi>Clewer</hi> hath at the laſt Aſſizes in the County of <hi>Northampton</hi> indicted a Gentlewoman of his Pariſh of good Parentage, and of Worth and Quality, for Fe<g ref="char:EOLhyphen"/>lony, for Stealing of his Horſe; and himſelf, and his Wife, and Maid gave evi<g ref="char:EOLhyphen"/>dence thereupon, and would have brought the Gentlewomans Life in queſtion if he poſſibly could have done it: and when the Grand Jury had returned the Bill <hi>Igno<g ref="char:EOLhyphen"/>ramus,</hi> he gave out in Speeches, that he had ſufficiently diſparaged the Gentle<g ref="char:EOLhyphen"/>woman by what he had done.</p>
+                  <p>That he hath commenced Suits againſt divers of his Pariſhioners, who were willing to pay him his juſt dues, becauſe they would not pay what he would unjuſtly have ex<g ref="char:EOLhyphen"/>acted and extorted from them.</p>
+                  <p>He hath refuſed to pay juſt Debts owing by him, and hath declared, he would rather ſpend one hundred Pounds in Law, than pay five Pounds when he is ſued for it, though it were due.</p>
+                  <p>The ſaid <hi>Clewer</hi> is very weak unable and inſufficient for the Miniſterial Function, and idle, and will not take pains therein as he ought to do, nor perform what of Du<g ref="char:EOLhyphen"/>ty he ought: For</p>
+                  <p>He doth ordinarily Preach other Mens Works, <hi>Verbatim,</hi> that are in Print, which the Pariſhioners have in their Houſes, and can read at Home.</p>
+                  <p>He hath ſeveral times in his Sermons uttered and ſpoke nonſenſe.</p>
+                  <p>He hath neglected his Cure upon ſeveral Lords Dayes, to proſecute contentious Suits and Quarrels, and for his own eaſe, and procured none to ſupply the ſame.</p>
+                  <p>Refuſed to Baptize the Child of a Viſible Believer, being tendred and the Fa<g ref="char:EOLhyphen"/>ther preſent.</p>
+                  <p>Refuſed to Baptize the Child of a Souldier that was in Service, becauſe the Father was not preſent, and the Child died within few daies.</p>
+               </body>
+            </floatingText>
+            <div type="part">
+               <head>The ſaid <hi>Clewer</hi> is ſcandalous in his Life and Converſation? <hi>For,</hi>
+               </head>
+               <p>FIrſt, He is a Liar, and a common ſpeaker of Untruths.</p>
+               <p>Secondly, He did Privately keep in his Houſe one Miſtris <hi>Bernard,</hi> Widow, ſix or ſeven Weeks together, and denied that ſhe was there: and afterwards kept her publickly, having no relation to her, and now keepeth her as his Wife, but whe<g ref="char:EOLhyphen"/>ther they were ever Married according to the Laws, is not known.</p>
+               <p>That he the ſaid <hi>Clewer</hi> hath been Drunk, and abuſed himſelf with exceſs.</p>
+               <p>The Kings <hi>Majeſty</hi> being reſtored, the Sequeſtred incumbent Doctor <hi>Whitford</hi> entred upon the ſaid Living, and Doctor <hi>Clewer</hi> being thereupon to ſeek for a be<g ref="char:EOLhyphen"/>nifice came to <hi>London,</hi> and then pretended himſelf to be a zealous Son of the <hi>Church</hi> (though for ten years before he had poſſeſt the Sequeſtred Living, and Violently Proſecuted his Reader, for Reading Common-Prayer as aforeſaid) and not being well known about <hi>London,</hi> hearing that the Vicarage of <hi>Croydon</hi> was Void, made
+<pb n="3" facs="tcp:43195:2"/>
+Friends to the Earl of <hi>Clarenden</hi> then Lord <hi>Chancellour</hi> of <hi>England,</hi> to obtain the ſame, which he effected by the help of a Gentleman, (to whom he promiſed a good Re<g ref="char:EOLhyphen"/>ward for his pains, to be paid him ſo ſoon as the Preſentation ſhould be Sealed) which Gentleman having obtained the Preſentation, the Doctor got it from him; but ne<g ref="char:EOLhyphen"/>ver paid him to this day, as the Gentleman reported.</p>
+               <p>That having got this Preſentation to <hi>Croydon,</hi> he haſtened thither: the Vicarage conſiſts only of ſmall Tythes, which at the utmoſt Value, is not worth above Eighty Pounds; this for ſome time was paid the Dr. <hi>per annum,</hi> who when he had been a little in the Pariſh and had got all the Pariſhioners Names into his Book, fell to his old Practices of Oppreſſion and Extortion, bringing frequently Vexations Suits againſt all or moſt of the Pariſhioners (becauſe they would not comply with his unconſci<g ref="char:EOLhyphen"/>onable and extravagant demands. Under theſe Horrid Oppreſſions the Pariſhioners having many years ſuffered, and ſome hundreds of the Inhabitants ruined thereby, they joined together, and cauſed the ſaid Doctor to be indicted for a Common <hi>Bar<g ref="char:EOLhyphen"/>rater,</hi> was to have come to a Trial in <hi>Hillary Term</hi> 1673, at the <hi>Kings-Bench Bar:</hi> ac<g ref="char:EOLhyphen"/>cordingly the Jury was ſummoned, and the Informers ready to have made good the Indictment by above three-hundred Witneſſes: but about two daies before the ſaid Trial ſhould have been, a <hi>Noli Proſequi</hi> was entred, by means whereof the Trial was ſtopt.</p>
+               <p>This <hi>Noli Proſequi</hi> was obtained by fraud alſo, for <hi>Clewer</hi> finding that the Pariſh were reſolved for to proſecute, came to one Mr. <hi>Bickerton,</hi> who was then one of Mr. <hi>Baron Turners</hi> Clerks, tells him thereof, adding that he was like to be undone there<g ref="char:EOLhyphen"/>by, for that the Rogues (as he called them) would ſware him to be a Common <hi>Barrator:</hi> then asked him whether he believed there could be ſuch Rogues in <hi>England?</hi> To which the ſaid <hi>Bickerton</hi> replied, that he alwaies ſuſpected that a miſchief would come upon him, for his continued Vexations continued to his Poor Pariſhioners, and wondred they had not done it ſooner; adding, that he believed they had juſt cauſe to proceed againſt him, by what he underſtood of his wayes in proceeding againſt them in the Ex<g ref="char:EOLhyphen"/>chequer. Whereupon <hi>Clewer</hi> asked if there were no way to ſtop the Trial for that Time? beg'd his aſſiſtance if poſſible to do the ſame, promiſing to give him ten pounds for his pains if he ſucceeded therein: Upon which Mr. <hi>Bickerton</hi> adviſed him to get a <hi>Noli Proſequi,</hi> for which purpoſe a Petition was drawn, ſetting forth that the Pa<g ref="char:EOLhyphen"/>riſhioners were Litigious, factious People, would pay him no Tythes, but forced him by means thereof to ſue for his dues, and now had indicted him for a Common <hi>Barrator,</hi> meerly for bringing ſuch his lawful Suits againſt them; therefore prayed Proceed<g ref="char:EOLhyphen"/>ings might be ſtopt. This done, the ſaid Doctor gave <hi>Bickerton</hi> a note under his hand to pay him ten Pounds if the Suit were ſtopt that Term, and away he went with the Petition to a Perſon that preſented it to his <hi>Majeſty,</hi> (who, being miſinformed, and thinking that the ſaid Doctor might have juſt occaſion to ſue as by Petition he pre<g ref="char:EOLhyphen"/>tended) did order Mr. <hi>Attorney</hi> General to enter a <hi>Noli Proſequi;</hi> and accordingly a <hi>Noli proſequi</hi> reciting his <hi>Majeſties</hi> Command was granted, and the Suit ſtopp'd, which done the ſaid Doctor went back to <hi>Bickerton,</hi> and crying, told him his <hi>Majeſty</hi> denied the Petition, and that the Trial was not ſtopt, deſired therefore his Note again that he had given him for his ten Pounds, which Mr. <hi>Bickerton</hi> delivered, as thinking <hi>Cle<g ref="char:EOLhyphen"/>wer</hi> had ſpoken truth, and ſo cheated him of his ten Pounds promiſed him upon accompt as aforeſaid,</p>
+               <p>The poor Pariſhioners of <hi>Croyden,</hi> they were greatly troubled not knowing what to do, being ſtopt from proceedings at Law, thereupon went to Counſel, and were adviſed to have Petitioned the Parliament then ſitting, as lying under a Grievance, and being denied the benefit of the Law for their redreſs, but upon Application made to the <hi>Lord Keeper</hi> and Mr. <hi>Attorney</hi>-General that now are, and acquainting them with the Truth of the Caſe, they did aſſure the Pariſhioners, that his <hi>Majeſty</hi> was ſur<g ref="char:EOLhyphen"/>prized with the granting of his <hi>Noli Proſequi,</hi> and undoubtedly would take the ſame off, if addreſſed unto in Council.</p>
+               <p>Whereupon the 21 of <hi>March</hi> 1672, a Petition was exhibited to his Majeſty, pray<g ref="char:EOLhyphen"/>ing that the <hi>Noli Proſequi</hi> might be taken off, and the Pariſhioners left to the Law, or that he would graciouſly be pleaſed to hear the Cauſe, and relieve them according to Juſtice.</p>
+               <p>To which Petition was annexed the Articles following.</p>
+               <floatingText xml:lang="eng" type="articles">
+                  <body>
+                     <pb n="4" facs="tcp:43195:3"/>
+                     <head>Articles of high Miſdemeanor humbly exhibited to the Kings moſt Excellent Majeſty, and the Right Honourable the Lords of his moſt Honourable Privy Councel, by the Inhabitants of the Town of <hi>Croydon</hi> in the County of <hi>Surrey,</hi> againſt Doctor <hi>William Clewer,</hi> Vicar of that Town.</head>
+                     <p>THat the ſaid Doctor by unjuſt Vexations and numerous Suits by him frequently brought againſt his Pariſhioners, extorts more from them than what either his Predeceſſors claimed, or had, or is his due.</p>
+                     <p n="2">2. He frequently after he hath been punctually paid his full dues, arreſts his poor Pariſhioners, and forces them to pay the ſame over again, together with great ſumms for charges, which he pretends he hath been at, declaring he will have of them what he pleaſes, for he cannot live on his Dues.</p>
+                     <p n="3">3. He hath ſerved ſeveral of the poor People with pretended Proceſſes, and com<g ref="char:EOLhyphen"/>pels them to pay him money when there is nothing due to him from them, and ex<g ref="char:EOLhyphen"/>torts money for the Proceſs, whenas there was never any Proceſs purſued other than what was made by himſelf, which is to the great abuſe of his Majeſties Courts at <hi>Weſtminſter.</hi>
+                     </p>
+                     <p n="4">4. That he doth very often ſue out many Writs out of the Exchequer againſt ſe<g ref="char:EOLhyphen"/>veral of the Pariſhioners that owe him not a farthing, puts them to vexation, trou<g ref="char:EOLhyphen"/>ble and charge, and then never exhibits any Bill againſt them.</p>
+                     <p n="5">5. That becauſe one of his Pariſh would not Swear for him what he would have had him, he vowed he would ſue him as long as he lived, and ſo hath continued to do ever ſince, to his almoſt utter ruine.</p>
+                     <p n="6">6. That he frequently arreſts poor People for Tithes, puts them to great charges when-as they owe him nothing; and ſuch as are able to make oppoſition he never declares againſt, but forces the reſt to compound and give him what he pleaſeth.</p>
+                     <p n="7">7. That he hath Attached the Goods of ſeveral perſons for Tithes pretended to be due to him, whenas none was due from them, hereby put the People to charge, done damage to their Goods; and when Replevins have been brought, then he hath never appeared or declared.</p>
+                     <p n="8">8. That he hath impriſoned ſeveral Perſons, and detained their Goods in his houſe till he hath forced them to give him what money they have, and ſeal Bonds to him for other ſumms of money by him demanded, when there hath not been one peny due to him.</p>
+                     <p n="9">9. That having come to an agreement with ſeveral perſons for their Tithes to take ſuch a ſum for them yearly, he hath received the ſum of money agreed upon for ſeveral years together, and afterwards denied the ſame, and ſued the perſons for their Tythes in kind, and the arrears thereof; and ſome of the People with whom he agreed, being illiterate, truſted him to write the agreement, he ſet down double the ſum that was agreed upon, got their mark to his Book, and ſued the Perſons, and forc<g ref="char:EOLhyphen"/>ed them to pay the ſame, together with ſuch unreaſonable charge as he demanded of them.</p>
+                     <p n="10">10. He hath Cited ſeveral of his Pariſhioners into the Spiritual Courts for pretend<g ref="char:EOLhyphen"/>ed Crimes, becauſe he could not have his unjuſt demands of them, and when he hath ſo cited them, hath taken ſumes of money of them to excuſe them being proſecuted in the ſaid Court.</p>
+                     <p n="11">11. That having let a Leaſe of his Tithes to one Mr. <hi>Wood</hi> for a certain Rent, <hi>Wood</hi> by vertue of that Leaſe received Tithes of the Pariſhioners, and paid him his Rent, after which he ſued the Pariſhioners over again for the ſame Tithes, and forced them for quietneſs to pay him, declaring the only way to be quiet was to pay both <hi>Wood</hi> and <hi>Him.</hi>
+                     </p>
+                     <p n="12">12. Several poor People having in the time of the late dreadful Sickneſs buried their relations in the Woods, the ſaid Doctor in the time of their neceſſity was ſo far from extending his Charity towards their relief, that he forced them to pay unrea<g ref="char:EOLhyphen"/>ſonable Fees for their Burials, as if they had been buried by him in the Church-yard; thoſe that would not comply with him, he ſued and extorted great ſumes of money from them for his Charges as well as Duties, before he would clear his Proſecution.</p>
+                     <pb n="5" facs="tcp:43195:3"/>
+                     <p n="13">13. He denied to receive his Tithes in kind of ſeveral of his Pariſhioners, though duly tendered to him, and he deſired to accept of them; demands of them what mo<g ref="char:EOLhyphen"/>neys he pleaſes in liew thereof; And if they do not pay what he demands, he ſues them at Law; and if they agree and pay for one, two, three, four, five, or ſix years at the rate compounded for, then at the ſix years end he demands of them the ar<g ref="char:EOLhyphen"/>rears of Tithes, pretending the Tithes to be of greater yearly value then what he com<g ref="char:EOLhyphen"/>pounded for: and if the People will not pay what he demands above his compoſition-money paid for theſe years paſt, then he ſues them till they by frights, and being put to unreaſonable trouble and charge, were enforced to give him what he demanded rather then be undone by contending with him; that being the leſſer evil of the too, by him put to their choice.</p>
+                     <p n="14">14. Here by this violent Perſecution of diverſe poor men, hath forced them to leave their Wives and Children, and ſeek ſhelter in remote places, to the utter ruine of their Families.</p>
+                     <p n="15">15. He demands of the poor Inhabitants the tenth Penny got by their day labour, and threatnes to compel them to bring their Milk into the Church-Porch to ſell, and there deliver him his tenth: from ſome he hath extorted great ſums of money, on pretence that he had been at Law with them ſeven years, whereas they were never ſerved with any Proceſs; others he hath ſerved with Proceſs after they had newly paid him his demands, to put them to further vexation and charge. One Proceſs which he had taken out againſt a man, he altered it, and made another man pay the charges as if it had been originally made out againſt him.</p>
+                     <p n="16">16. He frequently extorts great Sums of Money from his Pariſhioners for Marry<g ref="char:EOLhyphen"/>ing out of the Pariſh; and thoſe that refuſe to pay him what he demands for that Offence, he refuſes to receive their Tythes, and then ſues them for their Tythes and that together.</p>
+                     <p n="17">17. Such perſons as refuſe to pay the ſaid Doctor his unjuſt Demands, he will not ſuffer the Clerk to receive his juſt Dues, threatning to ſue both for his Money and Clerk's Dues, when as both hath been tendred, and might have been received with<g ref="char:EOLhyphen"/>out any Suit.</p>
+                     <p n="18">18. He hath arreſted ſeveral on pretended great Actions, and thereby kept them in Priſon, and yet on the Tryal could prove nothing againſt them; to the utter ruine of theſe poor People impriſoned; and hath forced ſeveral perſons to pay him five pounds, where his due is but twelve pence.</p>
+                     <p>By theſe and the like Extortions he makes his Living above 250 <hi>l. per annum,</hi> which never was worth to any his Predeceſſors above 60 <hi>l.</hi> and enricheth himſelf by the ruines of his Pariſhioners, eſpecially the poorer ſort that live on the Common, whom he endeavours to enſlave becauſe they are not able to contend with him at Law.</p>
+                  </body>
+               </floatingText>
+               <p>That Petition and Articles were read.</p>
+               <p>The Kings moſt excellent Majeſty, his Royal Highneſs the Duke of <hi>York,</hi> and eighteen more of his Majeſties moſt Honourable Privy-Council were preſent, and the Order following was made.</p>
+               <floatingText xml:lang="eng" type="order">
+                  <body>
+                     <pb n="6" facs="tcp:43195:4"/>
+                     <head>At the Court at <hi>VVhitehall,</hi> the 21 <hi>March,</hi> 1672.</head>
+                     <p>
+                        <list>
+                           <head>Preſent</head>
+                           <item>The King's moſt Excellent Majeſty.</item>
+                           <item>His Royal Highneſs the Duke of <hi>York.</hi>
+                           </item>
+                           <item>Lord Chancellor.</item>
+                           <item>Lord Treaſurer.</item>
+                           <item>Duke of <hi>Lauderdale.</hi>
+                           </item>
+                           <item>Duke of <hi>Ormond.</hi>
+                           </item>
+                           <item>Earl of <hi>Bridgwater.</hi>
+                           </item>
+                           <item>Earl of <hi>Northampton.</hi>
+                           </item>
+                           <item>Earl of <hi>Angleſey.</hi>
+                           </item>
+                           <item>Earl of <hi>Carliſle.</hi>
+                           </item>
+                           <item>Earl of <hi>Arlington.</hi>
+                           </item>
+                           <item>Earl of <hi>Bathe.</hi>
+                           </item>
+                           <item>Earl of <hi>Craven.</hi>
+                           </item>
+                           <item>Lord Viſcount <hi>Falconbridge.</hi>
+                           </item>
+                           <item>Lord <hi>Newport.</hi>
+                           </item>
+                           <item>Lord <hi>Berkley.</hi>
+                           </item>
+                           <item>Mr. Secretary <hi>Coventry.</hi>
+                           </item>
+                           <item>Mr. Chancellor of the Dutchy</item>
+                           <item>Maſter of the Ordnance.</item>
+                           <item>Sir <hi>Thomas Osborne.</hi>
+                           </item>
+                        </list>
+                     </p>
+                     <p>THe Inhabitants of the Town of <hi>Croydon</hi> in the County of <hi>Surrey,</hi> by their Petition this day read at the Board, humbly complaining of the many Oppreſſions, Extortions, violent and unwarrantable Proceed<g ref="char:EOLhyphen"/>ings of Dr. <hi>William Clewer,</hi> Vicar of the ſaid Pariſh of <hi>Croydon,</hi> againſt the Petitioners, under pretence of recovering his Tythes, inſomuch that in a ſhort time (if Relief be not given) moſt of the Petitioners will be forced to leave their Dwellings, or be inevitably ruined, as ſome of them with their Families have already been; It was thereupon Ordered by his Majeſty in Council, That the Petitioners do forthwith deliver in to the Clerk of the Council attending, the Particulars wherewith they in<g ref="char:EOLhyphen"/>tend to charge the ſaid Dr. <hi>Clewer,</hi> to the end he may have a Copy thereof timely enough to come prepared to make his Defence thereunto on Friday the 4th of <hi>April</hi> next: which time his Majeſty hath appointed to hear the ſaid Complaints, and doth command that all Parties con<g ref="char:EOLhyphen"/>cern'd do then give their attendance.</p>
+                     <closer>
+                        <signed>John Nicholas.</signed>
+                     </closer>
+                  </body>
+               </floatingText>
+               <p>According to this Order, a ſhort Paper was delivered in to the Clerk of the Coun<g ref="char:EOLhyphen"/>cil, whereby the Pariſhioners declared they would inſiſt upon,</p>
+               <p>
+                  <hi>Oppreſſion, Extortion,</hi> common <hi>Barretry, Subornation of Perjury, Forgery, Felony,</hi> and ſome more ſuch like petty Crimes of his Doctorſhip.</p>
+               <p>But before the Cauſe came to be heard, the Act of Grace came out; and <hi>Barretry,</hi> a thing never pardoned by any former Act of Grace, was pardoned thereby.</p>
+               <p>The fourth of <hi>April</hi> 1673. his Majeſty was graciouſly pleaſed to come early to the Council, and together with his Royal Highneſs, and twenty more of the Lords of the Privy Council ſate, with unſpeakable Patience heard the Charge againſt the ſaid Doctor made good, which was done by the Oaths of ſeveral perſons in every par<g ref="char:EOLhyphen"/>ticular mentioned in the ſaid Articles, and many others (if poſſible more wicked and hainous than the former) was proved againſt him.</p>
+               <p n="1">1. <hi>As firſt, he being one of the Truſtees for the Alms-houſes in</hi> Croydon, <hi>would not ſuffer Almes-men to be admitted till he had forced them to promiſe to allow him one half of the profits of the ſaid Alms-houſes, and took Bond for the ſame; which done, he admitted them; and would have turned one</hi> Edward Humfry <hi>out of his Almſ-houſe when he could no longer afford to pay him four ſhillings a month according to the ſaid Bond, which</hi> Hum<g ref="char:EOLhyphen"/>fry <hi>is now turnd out by the ſaid Doctor.</hi>
+               </p>
+               <pb n="7" facs="tcp:43195:4"/>
+               <p n="2">2. <hi>That when at the Sacrament money hath been collected for the Poor, he took a third part of it to his own uſe, ſaying,</hi> None was poorer than the Vicar, <hi>and kept it; which hath ſince prevented mens Charity.</hi>
+               </p>
+               <p n="3">3. <hi>That he ſent for a man from</hi> London <hi>pretending he would pay him ſome money which he owed his Father who was dead; the poor man came to</hi> Croydon <hi>to his houſe, and was made welcome, and had good meat and drink; after which he was carried by the Doctor into the Garden, made eat Fruit; which done, he ſent him away without a penny of mo<g ref="char:EOLhyphen"/>ney: but that was not all, for ſoon after he arreſted the poor man in an Action of Treſpaſs of two or three hundred pounds dammage for coming into his ground, kept him a Priſoner till he was forced to ſeal him a general Releaſe, and ſo cheated him of his Debt, which was about thirty pound, and grew due to his Father Mr.</hi> Preſton <hi>as aforeſaid, for officiating as Cu<g ref="char:EOLhyphen"/>rate for him at</hi> Aſhton <hi>in Northamptonſhire.</hi>
+               </p>
+               <p n="4">4. <hi>They proved that the Doctor had two ſpecial Bayliffs that do all his buſineſs, one of them hath been burnt in the hand, the other a vile Rogue as is in the Country; theſe Ar<g ref="char:EOLhyphen"/>reſt his Pariſhioners, then bringing them to his houſe, there they are kept Priſoners till he force them to agree to what he pleaſeth, which done, he draws them into Judgments in<g ref="char:EOLhyphen"/>ſtead of pretended Notes: and theſe are they whom he uſeth, together with a moſt excellent Gentlewoman Mrs.</hi> Reams<hi>'s Daughter in law, who went there by the name of Mrs.</hi> Clewer, <hi>who by the report of the whole Country and People at</hi> Weſtminſter, <hi>had a Child before her Marriage, lay in at</hi> Weſtminſter, <hi>and the Doctor was much with her, and ſhe went for his Wife, though her Mother was then alive; now lives in the Doctors houſe, wholly governs him, to ſay no worſe, makes him oppreſs the People as ſhe pleaſeth, and is his conſtant Wit<g ref="char:EOLhyphen"/>neſs to all his Agreements.</hi>
+               </p>
+               <p n="5">5. <hi>They proved that when the Doctor hath gone into the Pulpit to Preach, he hath dropt bundles of Writs out of his Pockets taken out againſt his Pariſhioners; and being taken up and peruſed, have been found to be raz'd in the Dates and in the Names, and new Dates and new Names put into them: which was a frequent thing with him, he making twenty Warrants out againſt twenty Perſons upon one ſingle Writ, and making each per<g ref="char:EOLhyphen"/>ſon pay ſeven ſhillings ſix pence for charges, when the Writ coſt him not above three ſhil<g ref="char:EOLhyphen"/>lings; ſo that he got above ſeven pound by a Writ, and made a property of his Majeſties Court of Exchequer, to the enriching himſelf and impoveriſhing his Pariſhioners. And after, when he ſhould have been Preaching on Sundayes, did uſe to ride to</hi> London <hi>to follow Suits againſt his Pariſhioners, leaving them without any one to Preach or read Prayers for them.</hi>
+               </p>
+               <p n="6">6. <hi>That he ſent for the Pariſhioners to come to his houſe to pay their Tithes, and when they had ſo done, frequently Arreſted ſome of them in Actions of Treſpaſs for coming upon his ground, thereby putting them to great charge, and ruined ſome of them.</hi>
+               </p>
+               <p n="7">7. <hi>That he hired a Carrier to bring his goods to</hi> London, <hi>which was done, and in</hi> London <hi>an old Desk was ſtole out of the Carriers Warehouſe, by his letting his goods lie there three weeks after brought up; but the man that ſtole it was catcht, the Desk brought back to the Inn, was opened, not knowing whoſe it was, and there was only in it a pair of Slippers and one old Law Book. The Doctor arreſts the Carrier, declares againſt him for</hi> 190 <hi>l. pretended to be in the ſaid Desk. The Carrier telling his Landlord thereof, he produced the ſaid Desk with the things aforeſaid in it; ſo that Suit ceaſed.</hi>
+               </p>
+               <p n="8">8. <hi>He hath cauſed the Gentry to leave the Town, to the Ruine thereof, ſpoiled the School, ſo that no Gentlemens Sons come at it. He hath cauſed Lands and Houſes to fall in their Rents, brought down the Price of them in their Sale above three years Purchaſe; makes Tenants that they will take no Leaſe, unleſs Landlords will Covenant to ſecure them againſt him; which they dare not do, and ſo the Houſes and Lands ſtand empty and lie waſte. And he hath forced the Pariſhioners to leave their Pariſh-Church, and to keep from re<g ref="char:EOLhyphen"/>ceiving the Sacrament, inſomuch that there are not above ten or twelve in the Pariſh beſides Almspeople (who are obliged) that will come to the Church or Sacrament; but if a ſtran<g ref="char:EOLhyphen"/>ger at any time do Preach, there comes at leaſt ſix, ſeven, or eight hundred.</hi>
+               </p>
+               <p>Laſtly, <hi>That the ſaid Doctor endeavoured to part Husbands from their Wives, raiſing falſe Stories of them; offered himſelf to ſue out Divorces.</hi>
+               </p>
+               <p>And many more Crimes of this nature.</p>
+               <p>Theſe matters, and alſo the aforeſaid Articles, being clearly proved, the ſaid Doctor only for defence offered, that the Pariſhioners would pay him no Tithes; thereupon was forced to Sue them for his Dues, and pray'd time to make defence.</p>
+               <p>Whereupon the Order following was made.</p>
+               <floatingText xml:lang="eng" type="order">
+                  <body>
+                     <pb n="8" facs="tcp:43195:5"/>
+                     <head>At Whitehall the fourth of April 1673.</head>
+                     <list>
+                        <head>Preſent,</head>
+                        <item>The King's moſt Excellent Majeſty.</item>
+                        <item>His Royal Highneſs the Duke of <hi>York.</hi>
+                        </item>
+                        <item>His Highneſs Prince <hi>Rupert.</hi>
+                        </item>
+                        <item>Lord Chancellor.</item>
+                        <item>Lord Treaſurer.</item>
+                        <item>Duke of <hi>Lauderdale.</hi>
+                        </item>
+                        <item>Duke of <hi>Ormond.</hi>
+                        </item>
+                        <item>Marqueſs of <hi>Worceſter.</hi>
+                        </item>
+                        <item>Earl of <hi>Ogle.</hi>
+                        </item>
+                        <item>Earl of <hi>Oſſory.</hi>
+                        </item>
+                        <item>Lord Great-Chamberlain.</item>
+                        <item>Earl of <hi>Bridgwater.</hi>
+                        </item>
+                        <item>Earl of <hi>Northampton.</hi>
+                        </item>
+                        <item>Earl of <hi>Angleſey.</hi>
+                        </item>
+                        <item>Earl of <hi>Carliſle.</hi>
+                        </item>
+                        <item>Earl of <hi>Craven.</hi>
+                        </item>
+                        <item>Earl of <hi>Arlington.</hi>
+                        </item>
+                        <item>Earl of <hi>Carbury.</hi>
+                        </item>
+                        <item>Viſcount <hi>Hallifax.</hi>
+                        </item>
+                        <item>Mr. Secretary <hi>Coventry.</hi>
+                        </item>
+                        <item>Mr. Chancellor of the <hi>Dutchy.</hi>
+                        </item>
+                        <item>Maſter of the Ordnance.</item>
+                     </list>
+                     <p>HIS Majeſty having this day heard at large the complaints of the Inhabitants of the Pariſh of <hi>Croydon</hi> in <hi>Surrey,</hi> againſt Doctor <hi>Clewer,</hi> Vicar of that Place, concerning ſeveral exorbitant Courſes by him practiſed for recovery of his Tithes, was pleaſed to refer the whole mat<g ref="char:EOLhyphen"/>ter to his Grace the Lord Arch-Biſhop of <hi>Canterbury,</hi> and to the Earle of <hi>Shaftsbury</hi> Lord High Chancellor of <hi>England;</hi> who requiring the ſaid Doctor, and ſome of the principal perſons of the ſaid Pariſh, to attend them, are to endeavour to ſettle the buſineſs for the future quiet of the Pariſhioners, and that there may be a conſtant maintenance for the Vicar there: which if their Lordſhips ſhall not be able to effect, they are to return their Opinion and Advice to his Majeſty what they conceive fit to be done therein.</p>
+                     <closer>
+                        <signed>John Nicholas.</signed>
+                     </closer>
+                  </body>
+               </floatingText>
+               <p>With this Order his Grace the Lord Arch Biſhop of <hi>Canterbury,</hi> and the Right Ho<g ref="char:EOLhyphen"/>nourable the Lord High Chancellor of <hi>England</hi> being attended, they were pleaſed to appoint a day in <hi>May</hi> laſt paſt, when both parties, with their Witneſſes, ſhould attend their Lordſhips at <hi>Lambeth-Houſe,</hi> where the matters aforeſaid were made manifeſt. As alſo,</p>
+               <p>That the ſaid Doctor <hi>Clewer</hi> was a notorious and common Theif, that uſed to come into Bookſellers Shops and ſteal Books and carry them away, ſeveral Maſters of Shops gave Teſtimony thereof. To which the Doctor being to give anſwer, de<g ref="char:EOLhyphen"/>clared that true it was, that he was ſitting in a Shop, reading a Book, and ſaw a Gentleman come by that he had occaſion to ſpeak with, and in haſte ran after him and forgot to lay down the Book and carried it with him; but the man preſently followed him and took it of him. But alas, good Gentleman! he had often had this chance of following his Friends with other mens Books under his Cloak. If he had done ſo but once, it might have paſſed as forgetfulneſs: But it fell out very unluckily, that at Mr. <hi>Sawbridge</hi> his Shop at the Bible on <hi>Ludgate-Hill,</hi> he came in and took away a Book of good value, carried it beyond Fleet-Bridge, and there was overtaken, and brought back, and beg'd Pardon, declaring who he was. Mr. <hi>Sawbridg</hi> thereupon, loth to bring any ſcandal upon a man of his Coat, went with him into Fetter-Lane to a Gentlemans Houſe to inquire of him, and finding that he was Doctor <hi>Clewer,</hi> and Vicar of <hi>Croydon,</hi> reſolved to make no more noiſe of it, if he would ingenuouſly
+<pb n="9" facs="tcp:43195:5"/>
+confeſs what Books he had formerly ſtolen from him; for that he had often been at his Shop, and he had often loſt Books, but never knew who to charge with them. Thereupon he promiſed he would go home, look over all his Books, and bring him the names of them, as alſo money for them; that he never came there again, or ſent the Catalogue of the Books he had ſtolen, but he did ſend his Wife to the Shop with about thirty nine ſhillings, and ſhe paid the ſame for the Books he had ſtolen: ſo that it was not alwayes forgetfulneſs, or running after Friends that made him car<g ref="char:EOLhyphen"/>ry Books out of the Shops.</p>
+               <p>The ſaid Doctor being then asked, why after ſo many Arreſts, and ſo may ſuits a<g ref="char:EOLhyphen"/>gainſt his Pariſhioners, he never brought any one of them to Trial whereby the <hi>mo<g ref="char:EOLhyphen"/>dus decimandi</hi> might have been ſettled? It was proved againſt him, that being de<g ref="char:EOLhyphen"/>manded the ſame queſtion in the Exchequer, he declared moſt falſely and Scanda<g ref="char:EOLhyphen"/>louſly of his Grace of <hi>Canterbury,</hi> that his Grace had directed him not to do it, becauſe the then Lord Chief <hi>Baron,</hi> (now Lord-Chief-Juſtice <hi>Hales</hi>) was an Enemy to the Church of <hi>England.</hi>
+               </p>
+               <p>Upon the whole mater, his Grace and the Lord <hi>Chancellor</hi> propoſed to the Pariſh to ſettle a certain Maintenance upon their Vicar for the future, that ſo no more ſuits might ariſe. To which the Pariſhioners moſt willingly aſſented, provided the Doctor might be removed and have no benefit thereof; and propoſed, as poor as he had made them, yet to be rid of him, and to have a good Learned Orthodox and Peaceable Man ſetled amongſt them, they would make a certain allowance of an hundred and twen<g ref="char:EOLhyphen"/>ty Pounds <hi>per annum,</hi> to be paid to the ſucceeding Vicar by quarterly Payments with<g ref="char:EOLhyphen"/>out charge and trouble.</p>
+               <p>No ſooner was this Propoſal made, but Doctor <hi>Clewer,</hi> who the World knows is a Notorious Lyar, (and the old Proverb is, <hi>A Liar had need to have a good memory</hi>) ſtarts up; and although juſt before he had told their Lordſhips he was forced to bring his Actions, and to have multiplicity of Suits becauſe his Pariſhioners would pay him nothing, that although he had offered them his Vicarage at 60, 50, nay 30 <hi>l. per annum,</hi> they refuſed to take the ſame; he told them that 120 <hi>l.</hi> was nothing, for that the Pariſh had offered him 180 <hi>l.</hi> themſelves.</p>
+               <p>
+                  <hi>Note,</hi> The Doctor let the Tithes for three years to one <hi>Wood</hi> at 60 <hi>l. per annum,</hi> and the ſaid <hi>Wood</hi> received the Tithes of the Tennants, paid him his Rents, and after<g ref="char:EOLhyphen"/>wards the Doctor ſued the Pariſhioners, and made many of them, to their utter Ruin, pay him the ſaid Tithes over again, though they had <hi>Woods</hi> diſcharge for the ſame.</p>
+               <p>Nevertheleſs to be rid of the Doctor the Pariſh then propoſed to allow an hundred and ſixty <hi>pound per annum</hi> to the ſurviving Vicar.</p>
+               <p>The concluſion of this meeting was that the Pariſhioners ſhould draw up their Pro<g ref="char:EOLhyphen"/>poſals in Writing, put them under their hands, and preſent them to the Lord High <hi>Chancellor</hi> of <hi>England:</hi> accordingly they were drawn up and ſigned by above three hundred Perſons, and preſented to his Lordſhip, and a Copy to his Grace of <hi>Can<g ref="char:EOLhyphen"/>terbury,</hi> and one other Copy annexed to a Petition was preſented to his <hi>Majeſty</hi> in Council, the Purport whereof was as follows.</p>
+               <p n="1">1. That provided Doctor <hi>Clewer</hi> were preſently removed, the Pariſh would al<g ref="char:EOLhyphen"/>low the ſucceeding Vicar ſucceſſively, if a Sober, Learned, Orthodox and Peace<g ref="char:EOLhyphen"/>able-Man, an hundred and ſixty pounds <hi>per annum.</hi>
+               </p>
+               <p n="2">2. That Doctor <hi>Clewer</hi> ſhould have no advantage of the ſaid offer.</p>
+               <p n="3">3. That they would conſent to an Act of Parliament or Decree in <hi>Chancery</hi> or Ex<g ref="char:EOLhyphen"/>chequer to ſettle and confirm the ſame.</p>
+               <p n="4">4. That till ſuch Act or Decree could be paſſed, to the intent the ſaid Doctor might not be continued, twenty of the moſt able Pariſhioners would become bound to the ſurviving Vicar to pay him an hundred and ſixty pound in lieu of all his Tithes or other Dues, until the ſaid one hundred ſixty pound ſhould be confirmed by Act of Parliament, or Decree aforeſaid.</p>
+               <p n="5">5. That whereas the ſaid Doctor pretended great arrears of Tithes and Dues ow<g ref="char:EOLhyphen"/>ing to him, and many Actions were brought by him againſt the Pariſhioners for the ſame, every Perſon concerned therein would be determined by the Judgment of any two indifferent Perſons, as the ſaid Lord's Grace of <hi>Canterbury</hi> and late Lord <hi>Chancel<g ref="char:EOLhyphen"/>lor</hi> ſhould appoint to hear and determine the ſame without further charges and trou<g ref="char:EOLhyphen"/>ble in Law.</p>
+               <pb n="10" facs="tcp:43195:6"/>
+               <p>This ſeemed very reaſonable and ſatisfactory to his Grace and the Lord <hi>Chancel<g ref="char:EOLhyphen"/>lor,</hi> and thereupon Doctor <hi>Clewer</hi> being ſent for by the late Lord <hi>Chancellor,</hi> was told thereof, and adviſed to ſurrender to his Grace of <hi>Canterbury,</hi> which if he would do, was offered another Living of 120 <hi>l. per annum</hi> in <hi>Northamptonſhire,</hi> then in the Lord <hi>Chancellors</hi> gift, and his Grace of <hi>Canterbury</hi> ſhould preſent one other able Orthodox Man to <hi>Croyden,</hi> to be named by the then Lord <hi>Chancellor,</hi> (his Grace of <hi>Canterbury</hi> being ſo convinced of the badneſs of Doctor <hi>Clewer,</hi> as he reſolved never to preſent him to any other.)</p>
+               <p>This being the <hi>Medium</hi> moſt graciouſly propoſed by His <hi>Majeſty</hi> in Council, for the eaſe of his Poor Subjects.</p>
+               <p>This offer the Doctor promiſed to accept, and to go to the Lord Arch-Biſhop of <hi>Canterbury</hi> and reſign accordingly; but as he ever hath been falſe, ſo in this he mani<g ref="char:EOLhyphen"/>feſted it in breaking his word both with his Grace and the Lord <hi>Chancellour,</hi> ſo that they could do nothing.</p>
+               <p>And truly till it was conſidered what the reaſon might be, it was wondred that he that might have had a Living of 120 <hi>l. per annum</hi> certain, to part with about 60 or 80 <hi>l. per annum</hi> gotten with contention, ſhould not accept the ſame: but af<g ref="char:EOLhyphen"/>terwards it appeared plainly that he was ſo well known in <hi>Northampton-Shire,</hi> that the People would have ſtoned him out of the Country if he had come thither.</p>
+               <p>Hereup<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n the Pariſhioners of <hi>Croyden,</hi> once again moſt humbly Petitioned his <hi>Majeſtie</hi> in Council, and annexed their Propoſals aforeſaid, ſhewing how inevi<g ref="char:EOLhyphen"/>tably they muſt be ruined if he were continued, and prayed his Removal.</p>
+               <p>Whereupon the 28 of <hi>May</hi> 1673, It was ordered as followeth.</p>
+               <floatingText xml:lang="eng" type="order">
+                  <body>
+                     <head>At the Court at <hi>Whitehall 28</hi> of <hi>May, 1673.</hi>
+                     </head>
+                     <list>
+                        <head>Preſent</head>
+                        <item>The Kings moſt Excellent Majeſty.</item>
+                        <item>His Royal Highneſs the Duke of <hi>York.</hi>
+                        </item>
+                        <item>Lord Arch-Biſhop of <hi>Canterbury.</hi>
+                        </item>
+                        <item>Lord Chancellor.</item>
+                        <item>Lord Treaſurer.</item>
+                        <item>Lord Privy-Seal.</item>
+                        <item>Duke of <hi>Lauderdail.</hi>
+                        </item>
+                        <item>Earle of <hi>Ogle.</hi>
+                        </item>
+                        <item>Earle of <hi>Bridgwater.</hi>
+                        </item>
+                        <item>Earle of <hi>Bath.</hi>
+                        </item>
+                        <item>Earle of <hi>Carliſle.</hi>
+                        </item>
+                        <item>Earle of <hi>Arlington.</hi>
+                        </item>
+                        <item>Earle of <hi>Craven.</hi>
+                        </item>
+                        <item>Earle of <hi>Carbury.</hi>
+                        </item>
+                        <item>Viſcount of <hi>Hallifax.</hi>
+                        </item>
+                        <item>Lord <hi>Maynard.</hi>
+                        </item>
+                        <item>Lord <hi>Newport.</hi>
+                        </item>
+                        <item>Lord <hi>Holles.</hi>
+                        </item>
+                        <item>Mr. Vice-Chamberlain.</item>
+                        <item>Mr. Secretary <hi>Coventry.</hi>
+                        </item>
+                        <item>Mr. Chancellor of the Excheq.</item>
+                        <item>Mr. Chancellor of the Dutchy.</item>
+                        <item>Mr. of the Ordnance.</item>
+                        <item>Sr. <hi>Thomas Osburn.</hi>
+                        </item>
+                        <item>Mr. Speaker.</item>
+                     </list>
+                     <p>VVHereas, upon hearing the Complaints of the Inhabitants of the Pariſh of <hi>Croyden</hi> in the County of <hi>Surrey,</hi> againſt Dr. <hi>Clewer</hi> Vicar of that Place, concerning ſeveral exorbitant courſes by him practiſed for recovery of his Tithes: it was the 4 of <hi>April</hi> laſt referred to his Grace the Lord Arch-Biſhop of <hi>Canterbury,</hi> and the Lord High-Chancellor of <hi>England,</hi> to endeavour to ſettle the Buſineſs for the future quiet of the Pariſhioners, and that there may be a conſtant Maintenance for the Vicar there. And the ſaid Inhabitants by their Humble Peti<g ref="char:EOLhyphen"/>tion this day read at the Board, Praying his Majeſty to receive a Report
+<pb n="13" facs="tcp:43195:6"/>
+from the Lords References of their Proceedings therein, and to ſuſpend the ſaid Doctor, and give the Petitioners leave to proceed at Law againſt him, or otherwiſe to relieve them; it was thereupon <hi>Ordered</hi> by his <hi>Ma<g ref="char:EOLhyphen"/>jeſty</hi> in Council, that it be again referred to his Grace the Lord Arch-Biſhop of <hi>Canterbury,</hi> and the Right Honourable the Lord High Chan<g ref="char:EOLhyphen"/>cellor of <hi>England,</hi> who calling all Parties before them, are to endeavour to compoſe and ſettle the ſaid Buſineſs according to the Propoſals made by the ſaid Inhabitants of <hi>Croyden:</hi> but if they cannot effect the ſame, then it is Ordered that the ſaid matter in difference be heard at this Board on Wedneſday the 11th of <hi>June</hi> next, at which time all Parties concerned are to give their attendance.</p>
+                     <closer>
+                        <signed>Edward Walker.</signed>
+                     </closer>
+                  </body>
+               </floatingText>
+               <p>Before the time for this Hearing came, unluckily it fell out that Dr. <hi>Clewer</hi> having taken a little too much of the Creature in <hi>London,</hi> being upon his Journey home, juſt as God would pleaſe to have it (to ſhew what he deſerved) againſt the Gallows near <hi>Newington-Butts</hi> his Horſe threw him, or he fell off from his Horſe, broke his Leg in three pieces, and put his Shoulder out: there he lay and none would help him, the people thereabouts knowing him ſo well that one cried, <hi>There lies the Vicar of</hi> Croy<g ref="char:EOLhyphen"/>don <hi>with his Leg broke, I would to God he had broken his neck; the Church would then be no more ſcandalized by ſuch a Rogue, nor the poor People tormented.</hi> Others wiſhed more ſevere things, which ſavoured not of Chriſtianity, therefore we will not mention them; but certain it is no one would help to remove him till they were paid before<g ref="char:EOLhyphen"/>hand, becauſe he is counted ſo great a Knave that none would truſt him; nor would a Coach-man take him up to carry him to Dr. <hi>Welden's</hi> houſe (the Parſon of <hi>New<g ref="char:EOLhyphen"/>ington</hi>) before he had ten ſhillings in hand, which is not half a Mile: And when he was at Doctor <hi>Welden's</hi> houſe, he ſent for one Doctor <hi>Thorland</hi> the Bone-ſetter from <hi>London,</hi> who found him in a very ill condition, but very glad he ſaw him at all: for it happened about twenty years ſince an accident of the ſame nature befel him in <hi>Northamptonſhire,</hi> of which the ſaid Doctor <hi>Thorland</hi> cured him, but to this day was never paid for it: Nevertheleſs the good man, as became a Chriſtian, pitied the Do<g ref="char:EOLhyphen"/>ctor, and ſeeing his miſery, applied himſelf to his Cure, and effected the ſame in about three months, when he demanded for his pains in this and the former Cure fifty pounds: but the Doctor would not pay him, upon which he arreſted him: thereupon he pleaded himſelf his Majeſties Chaplain, ſhewed a Certificate of his be<g ref="char:EOLhyphen"/>ing ſworn in that capacity, and ſo got off without paying for his Cure. And as unworthily he ſerved Doctor <hi>Welden,</hi> in whoſe houſe he ſo long lay ſick, to the great trouble and diſorder of his Family, prejudice and ſpoyling of his Goods.</p>
+               <p>By this means the Cauſe could not come to a Hearing, as by the Order of 28th <hi>May</hi> 1673, was directed.</p>
+               <p>But during this the Doctors ſickneſs, he was ſeveral times ſent unto by his Grace of <hi>Canterbury</hi> and the <hi>Lord Chancellor,</hi> to know if he would reſigne; he declared that he would ſo ſoon as there were indifferent Perſons nominated to Arbitrate the Diffe<g ref="char:EOLhyphen"/>rence between him and his Pariſhioners concerning arrears of Tithes.</p>
+               <p>Thereupon his Pariſhioners preſented the Petition annexed, and had the Order of Reference under-written made thereupon.</p>
+               <floatingText xml:lang="eng" type="order">
+                  <body>
+                     <head>To his Grace the Lord Arch-Biſhop of <hi>Canterbury,</hi> and the Right Honorable the Lord high Chancellor of <hi>England. The Humble Petition of the Inhabitants of</hi> Croydon.</head>
+                     <opener>Humbly Sheweth,</opener>
+                     <p>THAT your Petitioners moſt thankfully acknowledge your Lordſhips great Favour in giving them hopes of the removal of Doctor <hi>Clewer</hi> their Vicar, and placing amongst them Mr. <hi>Heſcott</hi> who hath been two Sundayes with them and Preached, and the whole
+<pb n="12" facs="tcp:43195:7"/>
+Pariſh in general ſatisfied with him, and are ready to make good their former Propoſals under their hands for making a ſettled maintenance of one hundred and ſixty pounds <hi>per ann.</hi> to be ſecured and paid in ſuch manner as therein was propoſed. Sunday the <hi>22</hi> day of <hi>June</hi> inſtant the Church Doores were ſhut up, there being no Perſon to Preach or read Prayers, which was a great diſcouragement to the Pariſh. That Doctor <hi>Clewer,</hi> who (as your Petitioners are informed) had reſigned his Vicarage (or promiſed on Friday laſt was ſeven night ſo to have done) doth now refuſe to make ſuch ſurrender, until by your Lord<g ref="char:EOLhyphen"/>ſhips, two Gentlemen be nominated and appointed to arbitrate the matter in difference be<g ref="char:EOLhyphen"/>tween him and ſome of the Pariſhioners concerning his Tithes in arrears, to which your Pe<g ref="char:EOLhyphen"/>titioners readily conſent.</p>
+                     <p>That by the Order of his Majeſty and Council, upon the laſt Petition preſented by your Petitioners, it was referred to your Lordſhips to end this buſineſs if you could, or otherwiſe the Cauſe upon the ſaid Petition to have been heard at that Board the <hi>11th</hi> of <hi>June</hi> laſt paſt; That your Petitioners have none to Preach to them, or Chriſten, Marry, or Bury; Mr. <hi>Heſcott</hi> being gone into the Country.</p>
+                     <p>
+                        <hi>The Premiſes conſidered, they moſt humbly implore your Lordſhips Favour to no<g ref="char:EOLhyphen"/>minate and appoint under your Hands two Perſons to arbitrate the difference aforeſaid, and deſire them to meet and end the ſame, and that Doctor</hi> Clewer <hi>may give his final determination whether he will ſurrender or not; and the Cauſe thereupon to be ſet down to be heard in Council; and in the mean time that you will be pleaſed to appoint ſome good man to Preach amongſt them.</hi>
+                     </p>
+                     <p>
+                        <hi>And as in Duty bound they ſhall Pray.</hi>
+                     </p>
+                  </body>
+               </floatingText>
+               <floatingText xml:lang="eng" type="appointment">
+                  <body>
+                     <head>July 24 1673.</head>
+                     <p>WE do nominate and appoint Sir <hi>Adam Brown</hi> Baronet, and <hi>Sir William Haward,</hi> to be the Perſons to Arbitrate the matter in difference about Tithes in Arrears between <hi>Dr. Clewer,</hi> and the Inhabitants of <hi>Croydon,</hi> and do deſire that they will undertake the trouble of ending theſe differences between them.</p>
+                     <closer>
+                        <signed>Gilb. Cant. Shaftsbury C.</signed>
+                     </closer>
+                  </body>
+               </floatingText>
+               <p>Whereupon Sir <hi>Adam Brown,</hi> and Sir <hi>William Haward</hi> appointed to meet at <hi>Croydon</hi> the 5th <hi>of</hi> Auguſt 1673. where they met that day, and on the 6, 7, and 28th of <hi>Auguſt</hi> and on the 2d and 9th of <hi>September,</hi> to hear and compoſe the matters in difference between the ſaid Vicar and his Pariſhioners.</p>
+               <p>And they heard, and determined about two hundred and fifty differences, and made their Report in expreſs words as followeth.</p>
+               <floatingText xml:lang="eng" type="report">
+                  <body>
+                     <head>To his Grace the Lord Arch-Biſhop of <hi>Canterbury,</hi> and the Right Honora<g ref="char:EOLhyphen"/>ble the Lord High Chancellor of <hi>England.</hi>
+                     </head>
+                     <opener>
+                        <salute>May it pleaſe your Lordſhips,</salute>
+                     </opener>
+                     <p>IN purſuance of your Lordſhips Reference unto us made, upon the Petition of the Inhabitants of the Town of <hi>Croydon,</hi> in the County of <hi>Surry,</hi> dated the 24th of <hi>June</hi> laſt, we have been ſeveral dayes upon the Place (to wit) on the 5th, 6th, 7th, and 25th of <hi>Auguſt</hi> laſt, and the 2d and 9th of <hi>September</hi> inſtant, to endeavour to compoſe the matter in difference betwixt Dr. <hi>William Clewer,</hi> and thoſe of his Pariſh with whom he had any controverſie. On the 5th of <hi>Auguſt,</hi> the Doctor after ſome delay came to us to the <hi>George</hi>-Inn, where many of the Pariſhioners being preſent we examined as many of their Caſes as we could before ten of the Clock at Night, when the Doctor would ſtay no longer, though a hundred of People were waiting, ſo we adjourned to eight a Clock the next morning; when the Doctor refuſed to come to us, alledging indiſpoſition of Body. Whereupon reſolving to proceed as far as we could, we went to his houſe, and continued ſitting from eight in the mor<g ref="char:EOLhyphen"/>ning till half an hour paſt twelve at night, without any intermiſſion to eate, in which time we were ſometimes told by the Doctor that we needed not to trouble our ſelves any farther for that he and thoſe that were then in Arrears to him (and which we
+<pb n="13" facs="tcp:43195:7"/>
+had not before determined ſhould agree. But upon the importunity of the Poor we ſtayed and heard all Perſons that the Doctor then complained againſt, and determin<g ref="char:EOLhyphen"/>ed every Caſe then before us, ſo that we thought to have made our Report. But afterwards accidentally riding through the Town, and hearing freſh Complaints upon the deſire of many of the Inhabitants, we appointed to meet again on the 25th of <hi>Auguſt</hi> laſt, when accordingly we came to the Town, and ſent for the Doctor, who refuſed to come to us. Whereupon we again went down to his Houſe, but were ſo delayed by him, that we could not in the forenoon diſpatch above eight or nine Perſons. He refuſing to let thoſe be called that were preſent, and ready to pay money, and calling upon others that were not there, and who only owed him for Chriſtenings and Offerings. And having ſat till one of the Clock, we went to the <hi>George</hi> to dinner, deſiring the Doctors company with us, offered him the convenience of a Coach becauſe of his Lameneſs, and left the ſame to bring him, went our ſelves on foot, the which we rather did becauſe his own Houſe was inconvenient, and we were much incommoded there, by the ſmalneſs of his Room, and the heat occaſioned by the croud of People; but the Doctor would not come to us. So that after ſending for him ſeveral times, and he refuſing to come, we writ to him, and appointed him to meet us on the 2d of <hi>September</hi> inſtant. Expreſly deſiring him to prepare us a Liſt of the Perſons names that owed him any money, and how much each owed him, and and for what; that ſo we might loſe no more time in ſearching his Books and Pa<g ref="char:EOLhyphen"/>pers, for all the men that came before us, which much hindred our proceedings; which done we diſmiſt thoſe that attended, who loſt that dayes work, and appointed them to attend on the ſaid ſecond of <hi>September.</hi> But on the firſt of <hi>September</hi> the ſaid Doctor prevailed (upon pretence that he was ill by Preaching the Sunday before) to defer the meeting till the 9th of <hi>September,</hi> when he promiſed to come to the <hi>George</hi> to us, and that in the mean time the Pariſhioners ſhould have notice thereof. Never<g ref="char:EOLhyphen"/>theleſs, we loth to diſappoint them, come to <hi>Croydon</hi> the ſaid 2d of <hi>September,</hi> and found many of the Inhabitants waiting, having had no timely notice, and there<g ref="char:EOLhyphen"/>fore ſent to the Doctor, deſired him to come to us and diſpatch them (being inform<g ref="char:EOLhyphen"/>ed he was well and went abroad that day:) but though we ſent often down, he refu<g ref="char:EOLhyphen"/>ſed to come, and ſo we were forc't to diſmiſs them with the loſs of that day alſo, which much troubled us; appointing them to appear again the 9th of <hi>September,</hi> when we again attended, and ſent for the Doctor, who at firſt refuſed to come; pretending he had not promiſed ſo to do, whereby he ſpent great part of our time, in<g ref="char:EOLhyphen"/>ſomuch that we could do nothing till after dinner; when we ſat, and the Inhabitants being preſent, We demanded the Liſt aforeſaid, but could not prevail for the ſame, ſo that moſt part of our time (as formerly) was ſpent in his turning over his Books. Nevertheleſs we ſat till ten at night, and diſpach't all that were preſent, unleſs ſome few which the Doctor would not ſtay to end, though he continued longer in the houſe then we believe would have diſpatch'd them; nor would he agree, though we deſired it, to appear the next morning to end the ſame, ſo that they loſt their labour. And we do humbly certifie that having examined about two hundred and fifty ſeveral Caſes, we did find that the occaſion of the differences between the Doctor and them was the unreaſonable demands of Tithes, and other undue impoſitions he had en<g ref="char:EOLhyphen"/>deavoured to impoſe upon moſt of them, being the poorer ſort of the Inhabitants, who being illiterate, were by undue means drawn either into exorbitant Agreements, penal Bills, or Judgments, by Arreſting and keeping them in durance, till they complied with him therein; whereby many Families were put to very great expence, and thereby much impoveriſhed ſome of them, totally ruined others, forced them to run from their Houſes, and leave their Wives and Children to the Pariſh; by which means we conceive that he himſelf in ſome meaſure hath been the occaſion of the non-pay<g ref="char:EOLhyphen"/>ment of what was his juſt dues, which otherwiſe might probably have been had with the Affections of the People. And for ground of this our belief, we take leave further to inform your good Lordſhips, That every perſon that appeared before us, and with whom the Doctor had any conteſt, moſt willingly ſubmitted to whatever we ſhould determine between them; whereupon we proceeded to examine his Demands, and upon deliberate Conſideration of what was alledged on each ſide, found them very extravagant, and not fitting to be ſubmitted unto; therefore moderated the ſame, giving him in ſome caſes but the twentieth, in others the twelfth, tenth, ſixth or fourth part of what was demanded, which in many caſes was more than they ought to have
+<pb n="14" facs="tcp:43195:8"/>
+paid; Nevertheleſs they moſt readily ſubmitted thereunto, and all of them paid the ſame in hopes of the Doctor's being removed, ſo that they may not further be troubled with him; the which he ſeemed to inſinuate his readineſs unto, and was the great Motive that in many caſes invited us to do what we did, excepting ſome poor Alms<g ref="char:EOLhyphen"/>men, from whom he had gotten Judgments for ſeveral ſums of money; who being unable to pay the ſame, the Pariſh rather than they ſhould go to Goal, offered to pay a Part thereof: Whereupon finding little or no ground for the ſaid Judgments, we re<g ref="char:EOLhyphen"/>duced the ſums demanded to a third part, and the Pariſh undertook to ſatisfie the ſame, with which the Doctor reſted ſatisfied; and alſo two or three ſmall ſums not exceeding five pounds in the whole, for payment whereof we have given ſome ſhort time. And we did determine all the Caſes that came before us, except one of <hi>Chriſto<g ref="char:EOLhyphen"/>pher Joyner</hi> deceaſed, of whoſe Executors he demanded ten pounds <hi>per annum</hi> for ten years arrears of Tithes, when as he had not above twenty pounds <hi>per annum</hi> in the Pariſh; and Sir <hi>Purbeck Temple</hi> and <hi>Thomas Bowers</hi> Caſes, the difference between whom had been before ſubmitted to References and Awards made therein; Never<g ref="char:EOLhyphen"/>theleſs they ſubmitted to our determination. And Sir <hi>Purbeck Temple</hi> tendered the money according to his Award, which would not be acepted; And excepting alſo the Caſe of <hi>Edward Harvy</hi> the which had alſo been ſubmitted unto Reference, and one Award made therein (though he be not able to pay any part of the money) which Caſes we were forced to leave as we found, the Doctor refuſing to refer him<g ref="char:EOLhyphen"/>ſelf to us therein. And having thus proceeded (being weary with theſe delayes) we left the ſaid Pariſhioners, who moſt humbly and unanimouſly implore your good Lordſhips Favour to remove from amongſt them the ſaid Doctor, and that a good man may be placed amongſt them; In which Suit we alſo humbly joyn to your Honours, as a thing which for the reaſons aforeſaid, we do judge very convenient; All which nevertheleſs we humbly ſubmit to your Lordſhips Judgments, and re<g ref="char:EOLhyphen"/>main,</p>
+                     <closer>
+                        <salute>My Lords,</salute>
+                        <signed>Your Lordſhips moſt humble Servants,
+<list>
+                              <item>
+                                 <hi>Adam Brown.</hi>
+                              </item>
+                              <item>
+                                 <hi>William Haward.</hi>
+                              </item>
+                           </list>
+                        </signed>
+                        <dateline>
+                           <hi>Croydon,</hi>
+                           <date>
+                              <hi>Septemb.</hi> 10. 1673.</date>
+                        </dateline>
+                     </closer>
+                  </body>
+               </floatingText>
+               <p>This Report is not the tenth part ſo bad as the matter appeared againſt the Doctor; the particular Caſes decided are too long to inſert; but if they were, it would not be poſſible for any man to believe there could be ſo many horrid Oppreſſions and Frauds put upon poor People by any Clergy-man living.</p>
+               <p>Of this Report there were two Copies ſigned; the one of them the Referrees preſen<g ref="char:EOLhyphen"/>ted to my Lords Grace of <hi>Canterbury,</hi> the other to the late Lord Chancellor, who there<g ref="char:EOLhyphen"/>upon promiſed to do what in them lay to remove the ſaid Doctor: accordingly he was ſent for, promiſed his Grace that he would reſigne; and came to the Lord Chan<g ref="char:EOLhyphen"/>cellor and told him the ſame alſo, And that when-ever his Lordſhip ſhould deſire the ſame, he would do it; adding, <hi>that his Grace commanded him to tell his Lordſhip that he would preſent to</hi> Croydon <hi>ſuch a Perſon as his Lordſhip would appoint.</hi> And upon this Conſideration the Lord Chancellor promiſed the ſaid <hi>Clewer</hi> to provide for him ſome other Living, bidding him rely upon his Honour for it, aſſuring him he ſhould have the firſt convenient Living that fell in his gift, or to that effect: Whereupon the ſaid Doctor promiſed to conform to his Lordſhips deſires, but neglected to do the ſame, ſhuffling and endeavouring to put tricks upon their Lordſhips. This neceſſitated the Pariſhioners to petition his Majeſty and Council once more, therein ſetting forth what the Referrees had done, annexing their Report to the ſaid Petition, ſhewing the Ne<g ref="char:EOLhyphen"/>ceſſity of the Doctor's being removed, or the Towns being ruined: Therefore hum<g ref="char:EOLhyphen"/>bly implored his Removal, or that they might have his Majeſties Royal leave for to inſert a Clauſe into the Act of Parliament then drawing, to ſettle the 160 <hi>l. per An<g ref="char:EOLhyphen"/>num</hi> on the Vicar; to make the ſaid Doctor incapable of any preferment in Church or State.</p>
+               <p>This Petition being read, the Kings moſt Excellent Majeſty Preſent, the Pariſhio<g ref="char:EOLunhyphen"/>ners were called in, and told by the Lord Chancellor that their Petition had been read, and that his Majeſties Royal pleaſure was, that in Caſe the ſaid Doctor did not ſurrender before the Bills deſigned to be brought into Parliament for ſetling the main<g ref="char:EOLhyphen"/>tenance aforeſaid ſhould be preſented to the Parliament, that then they ſhould put
+<pb n="15" facs="tcp:43195:8"/>
+in ſuch a Clauſe into the ſaid Bill, wiſhing the Pariſh to haſten the ſaid Bill. This the Lord Chancellor declared to them in his Majeſties Preſence. Beſides this, the Or<g ref="char:EOLhyphen"/>der following was made.</p>
+               <floatingText xml:lang="eng" type="order">
+                  <body>
+                     <head>At the Court at <hi>Whitehal Octob.</hi> 15. 1673. Preſent The Kings moſt excellent Majeſty in Council.</head>
+                     <p>UPon reading the Petition of the Inhabitants of <hi>Croydon,</hi> complain<g ref="char:EOLhyphen"/>ing againſt Dr. <hi>William Clewer</hi> their Vicar, and praying that he may be removed for ſeveral Reaſons at large ſet forth in the Petition; His Majeſty in Council hath this day declared, That when the Inhabi<g ref="char:EOLhyphen"/>tants of the ſaid Pariſh of <hi>Croydon</hi> ſhal provide to ſettle a hundred &amp; ſixty pounds by the year, as a maintenance for the Vicar of the ſaid Pariſh, according to their Propoſal in the ſaid Petition, in order to the paſſing of an Act to confirm the ſame for ever on the Vicarage of the ſaid Pa<g ref="char:EOLhyphen"/>riſh, then his Majeſty will give effectual Order for removing of the pre<g ref="char:EOLhyphen"/>ſent Incombent Doctor <hi>Clewer.</hi>
+                     </p>
+                     <closer>
+                        <signed>Robert Southwel.</signed>
+                     </closer>
+                  </body>
+               </floatingText>
+               <p>Upon this the Pariſhioners immediately went home, and Publiſhed in the Market and at the Church his Majeſties Gracious Anſwer, deſiring all the Inhabitants to meet at the Veſtry to ſign a Declaration teſtifying their Conſents to the Paſſing of the Bill aforeſaid; and accordingly moſt of them did meet, Signed and Sealed ſuch Certi<g ref="char:EOLhyphen"/>ficate of their Conſents, and their humble Petition to both Houſes of Parliament to Paſs the ſaid Bill, and impowering a Sollicitor to proſecute the Paſſing thereof.</p>
+               <p>This done, a Bill was drawn, and ſuch a Clauſe as aforeſaid was contained therein; when drawn, the ſame was copied, and one Copy carried, and left with his Grace of <hi>Canterbury,</hi> the other with the then Lord Chancellor: They having peruſed the ſame, My Lord of <hi>Canterbury</hi> referred the Amendment thereof to Mr. <hi>Phillips</hi> of the Inner-Temple, his Graces Counſel; and the Lord Chancellor, to Mr. Attorney <hi>Montague:</hi> both were attended, and they made their ſeveral Amendments, with which the ſame was fairly copied, and put into Sir <hi>Adam Brown's</hi> hand to preſent in <hi>October</hi> laſt: But the Prorogation of Parliament prevented the ſame.</p>
+               <p>All this time the ſaid Doctor had notice of it, knew of the Clauſe, Promiſed to ſurrender ſo it might be left out; went to both his Grace of <hi>Canterbury,</hi> and from him to the Lord Chancellor, frequently declaring the ſame: And my Lord Chancellor offered him an other Living, which he kept void for him, (and ſo in truth it was till the very day his Majeſty was pleaſed to ſend for the Seal from his Lordſhip) But the Doctor reſolving to perſiſt in his Villanies to ruine the Pariſh of <hi>Croydon</hi> (as he fre<g ref="char:EOLhyphen"/>quently declares he will do before he leaves it) refuſed to ſurrender, but continues to go on in his horrid oppreſſions and vexations, commencing ſuits againſt his Pariſhi<g ref="char:EOLhyphen"/>oners without colour of Cauſe, to their unſpeakable damage.</p>
+               <p>Under theſe ſad Oppreſſions the poor Pariſh having lain theſe thirteen years languiſh<g ref="char:EOLhyphen"/>ing, they now become humble Supplicants to the Parliament of <hi>England,</hi> To Enable them by an Act to give ſuch Maintenance to a ſucceeding Miniſter, as may be an En<g ref="char:EOLhyphen"/>couragement to a Sober, Learned, Orthodox and Peaceable Man to come and ſettle a<g ref="char:EOLhyphen"/>mongſt them.</p>
+               <p>To do the Church that Right as to remove ſo wicked and ſcandalous a Perſon out of it, and for the Honour and Vindication of the Religion of the Church of <hi>England,</hi> to make him for ever uncapable of ſerving in the Church again, than which no greater advantage can be done to the Church of <hi>England</hi> at this time.</p>
+               <p>For the ſaid Doctor is a frequenter of houſes of debauchery, particularly, a blind beggarly diſorderly Alehouſe in a by-place within the Pariſh of <hi>Newington,</hi> notori<g ref="char:EOLhyphen"/>ouſly
+<pb n="16" facs="tcp:43195:9"/>
+infamous for entertainment of lewd Perſons, where the Officers (having notice given them) about midnight ſo and him (upon ſearch) hid in a Garret, and were carrying him to the Counter, or Priſon in the <hi>Burrough,</hi> till he diſcovered himſelf to be a Clergy-man, and befought their civility, entreating that they would not diſ<g ref="char:EOLhyphen"/>grace him publickly, whereupon they releaſed him. But the Houſe ſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> after was in danger to be pulled down for a Baudy-houſe.</p>
+               <p>It is humbly ſubmitted, Whether this man be fit to be continued in the Church, or to be made a Publick Example, to deter other Clergy-men from ſuch wicked practices for the future?</p>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:43195:9"/>
+         </div>
+      </body>
+   </text>
+</TEI>
